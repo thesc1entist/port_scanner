@@ -1,0 +1,4 @@
+*.o
+cscope.out
+.vscode
+binary
